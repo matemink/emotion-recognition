@@ -1,4 +1,5 @@
 ### create image generation pipeline ###
+# pip install setuptools - quick fix for distutils is removed in Python 3.12
 
 import torch
 from diffusers import DiffusionPipeline
